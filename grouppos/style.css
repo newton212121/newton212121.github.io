@@ -1,0 +1,365 @@
+
+.r1 {
+	position: absolute;
+	width: 180px;
+  height: 180px;
+  position: absolute;
+  top: 40px;
+  left: 70px;
+  background-color: rgb(0, 0, 0);
+  border-radius: 50%;
+
+}
+.r2:hover{
+	position: absolute;
+	width: 90px;
+  height: 90px;
+  position: absolute;
+  top: 85px;
+  left: 115px;
+  background-color: black
+  border-radius: 50%;
+
+}
+
+
+p:hover {
+  color: purple;}
+
+
+.r2{
+position: absolute;
+
+	width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 55px;
+  left: 85px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;	
+}
+
+.r3{
+position: absolute;
+	left:-31px;
+	top:250px;
+	width:220px;
+	height:15px;
+	background-color: rgb(0,0,0);
+transform: rotate(90deg);
+	
+}
+.r4{
+	position: absolute;
+	left: 180px;
+	top:240px;
+	width:120px;
+	height:15px;
+	background-color: rgb(0,0,0);
+	transform: rotate(50deg);
+}
+.rbox{
+	position: absolute;
+	left:50px;
+	transform: scale(0.5);
+}
+.abox{
+	position: absolute;
+	transform:scale(0.5);
+	left:260px;
+	top: -20px
+	
+}
+.a4:hover{
+	position: absolute;
+	width: 90px;
+  height: 90px;
+  position: absolute;
+  top: 140px;
+  right:700;
+  background-color: black
+  border-radius: 50%;
+}
+.a1{
+	position: absolute;
+	width:115px;
+	height:15px;
+	background-color: rgb(0,0,0);
+	transform: rotate(60deg);
+	top: 290px;
+	right:-220px;
+
+	
+}
+.a2{
+position: absolute;
+	width:120px;
+	height:15px;
+	background-color: rgb(0,0,0);
+	transform: rotate(-60deg);
+	top:284px;
+	right: -58px
+		
+}
+.a3{position: absolute;
+
+	width: 180px;
+  height: 180px;
+  position: absolute;
+  top: 100px;
+  left: -20px;
+  background-color: rgb(0, 0, 0);
+  border-radius: 50%;}
+  .a4{
+  	position: absolute;
+
+	width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 115px;
+  left: -5px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  }
+  .a5{
+	position: absolute;
+	width:217px;
+	height:15px;
+	background-color: rgb(0,0,0);
+	transform: rotate(-																																																																																																																																																																																																																																																																																50deg);
+	bottom: 288px
+	right:67px;
+  }
+  .cbox{
+  	position: absolute;
+  	left: -80px;
+	
+  }
+  .c2:hover{
+  	position: absolute;
+	width: 80px;
+  height: 90px;
+  position: absolute;
+  top: 140px;
+  right:300;
+  background-color: black
+  border-radius: 50%;
+  }
+
+  .c1{
+  position: absolute;
+	width: 90px;
+  height: 90px;
+  position: absolute;
+  top: 20px;
+  left: 500px;
+  background-color: rgb(0, 0, 0);
+  border-radius: 50%;
+  }
+  .c2{
+  	  position: absolute;
+	width: 75px;
+  height: 75px;
+  position: absolute;
+  top: 27px;
+  left: 508px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  }
+  .c3{
+  	position: absolute;
+	width:70px;
+	height:7px;
+	background-color: rgb(0,0,0);
+	transform: rotate(-72deg);
+	top:46px;
+	left: 558px
+  }
+  .c4{
+  	position: absolute;
+	width:90px;
+	height:7px;
+	background-color: rgb(0,0,0);
+	transform: rotate(-60deg);
+	top:75px;
+	left: 445px
+  }
+
+  .gbox{
+  	position: absolute;
+  	left: -80px;
+
+  }
+  .g1:hover{
+  	position: absolute;
+	width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 140px;
+  right:200;
+  background-color: black
+  border-radius: 50%;
+  }
+
+  .h1{
+  	position: absolute;
+	width:70px;
+	height:7px;
+	background-color: rgb(0,0,0);
+	transform: rotate(-180deg);
+	top:65px;
+	left: 660px
+  }
+  .h2{
+  position: absolute;
+	width:40px;
+	height:8px;
+	background-color: rgb(0,0,0);
+	transform: rotate(-90deg);
+	top:84px;
+	left: 706px
+  }	
+  .gbox{
+  	position: absolute;
+  	left: -80px;
+
+  }
+  .g1{
+  	position: absolute;
+	width: 75px;
+  height: 75px;
+  position: absolute;
+  top: 20px;
+  left: 700px;
+  border: 7.5px solid rgb(0, 0, 0);
+  border-radius: 50%;
+  }
+.e1:hover{
+  	position: absolute;
+	width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 140px;
+  right:200;
+  background-color: black
+  border-radius: 50%;
+  }
+
+.e1{
+  	position: absolute;
+	width: 75px;
+  height: 75px;
+  position: absolute;
+  top: 20px;
+  left: 850px;
+  border: 7.5px solid rgb(0, 0, 0);
+  border-radius: 50%;
+  }
+  .e2{
+  	position: absolute;
+	width:70px;
+	height:7px;
+	background-color: rgb(0,0,0);
+	transform: rotate(-180deg);
+	top:90px;
+	left: 890px
+  }
+   .e3{
+  	position: absolute;
+	width:70px;
+	height:7px;
+	background-color: rgb(0,0,0);
+	transform: rotate(-180deg);
+	top:35px;
+	left: 890px
+  }
+  .e4{
+  	position: absolute;
+	width:70px;
+	height:7px;
+	background-color: rgb(0,0,0);
+	transform: rotate(-180deg);
+	top:65px;
+	left: 890px
+  }
+.s1:hover{
+  	position: absolute;
+	width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 140px;
+  right:200;
+  background-color: black
+  border-radius: 50%;
+  }
+
+.s1{
+position: absolute;
+	width: 75px;
+  height: 75px;
+  position: absolute;
+  top: 20px;
+  left: 1000px;
+  border: 7.5px solid rgb(0, 0, 0);
+  border-radius: 50%;	
+}
+.s2{
+	position: absolute;
+	width:40px;
+	height:8px;
+	background-color: rgb(0,0,0);
+	transform: rotate(-60deg);
+	top:115px;
+	left: 1000px
+}
+.s3{
+	position: absolute;
+	width:38px;
+	height:8px;
+	background-color: rgb(0,0,0);
+	transform: rotate(-180deg);
+	top:130px;
+	left: 975px
+}
+.s4{
+	position: absolute;
+	width:40px;
+	height:8px;
+	background-color: rgb(0,0,0);
+	transform: rotate(-60deg);
+	top:3px;
+	left: 1050px
+}
+.s5{
+position: absolute;
+	width:38px;
+	height:9px;
+	background-color: rgb(0,0,0);
+	transform: rotate(-180deg);
+	top:-10px;
+	left: 1075px	
+}
+
+h1{
+position:absolute;
+top: 400px;
+left: 300px;
+font-family: monospace;
+font-weight: normal;
+
+}
+p {
+position:absolute;
+top: 450px;
+left: 300px;
+width: 410px;
+font-size: 18px;
+font-family: courier;
+line-height: 23px;
+font-weight: bold;
+text-align: left;
+
+}
+
+
+	
