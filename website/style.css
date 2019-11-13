@@ -1,0 +1,124 @@
+
+
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("bacc.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+h1{
+position: absolute;
+	font-family: 'Orbitron', sans-serif;
+	color: rgb(226,188,236);
+	left:110px;
+	top:-50px;
+	font-size: 115px}
+
+h2{
+position: absolute;
+	font-family: 'Orbitron', sans-serif;
+	color: rgb(101,181,90);
+	left:290px;
+	top:70px;
+	font-size: 80px}
+
+	h3{
+position: absolute;
+	font-family: 'Orbitron', sans-serif;
+	color: rgb(101,181,90);
+	left:290px;
+	top:175px;
+	font-size: 41.5px}
+	h4{
+position: absolute;
+	font-family: 'Orbitron', sans-serif;
+	color: rgb(101,181,90);
+	left:410px;
+	top:195px;
+	font-size: 50px}
+	h5{
+position: absolute;
+	font-family: 'Orbitron', sans-serif;
+	color: rgb(101,181,90);
+	left:480px;
+	top:230px;
+	font-size: 50px}
+	h6{
+position: absolute;
+	font-family: 'Orbitron', sans-serif;
+	color: rgb(226,188,236);
+	left:535px;
+	top:260px;
+	font-size: 45px}
+	h7{
+position: absolute;
+	font-family: 'Libre Caslon Text', serif;
+	color: rgb(226,188,236);
+	left:435px;
+	top:765px;
+	font-size: 30px}
+
+
+.skeletons{
+position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("skeletons.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  margin-bottom: 1px;
+  transition: background-color 0.25s ease-in-out;
+}
+.skeletons:hover {
+  background-color: rgb(29, 44, 98);
+  cursor: pointer;}
+
+@media (max-width: 1024px){
+	h1{
+		font-size: 50px;
+		top: 20px;
+		left: 40px;
+	}
+h2{
+	font-size: 40px;
+	top:90px;
+	left:100px;
+}
+h3{
+	font-size: 25px;
+	top:170px;
+	left: 60px;
+}
+h4{
+	font-size: 30px;
+	top: 220px;
+	left: 140px;
+}
+h5{
+	font-size: 25px;
+	top:280px;
+	left: 195px;
+}
+h6{
+	font-size: 30px;
+	top: 300px;
+	left: 210px;
+}
+h7{
+	font-size: 25px;
+	top: 780px;
+	left: 105px;
+}
+}
+
+
+
+
+  
