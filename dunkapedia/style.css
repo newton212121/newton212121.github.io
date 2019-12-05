@@ -1,0 +1,59 @@
+.image1 {
+	position: absolute;
+	width: 50px;
+	height: 100px;
+}
+
+.image2 {
+	position: absolute;
+	width: 50px;
+	height: 100px;
+	left: 100px;
+}
+
+.image3 {
+	position: absolute;
+	width: 50px;
+	height: 100px;
+	left: 180px;
+}
+
+.image4 {
+	position: absolute;
+	width: 50px;
+	height: 100px;
+	left: 200px;
+}
+.image5 {
+	position: absolute;
+	width: 50px;
+	height: 100px;
+	left: 225px;
+}
+.image6 {
+	position: absolute;
+	width: 50px;
+	height: 100px;
+	left: 275px;
+}
+
+.image7 {
+	position: absolute;
+	width: 50px;
+	height: 100px;
+	left: 300px;
+}
+
+.image8 {
+	position: absolute;
+	width: 50px;
+	height: 100px;
+	left: 350px;
+}
+
+.image9 {
+	position: absolute;
+	width: 50px;
+	height: 100px;
+	left: 400px;
+}
