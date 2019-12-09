@@ -56,28 +56,30 @@ img:hover {
 
 .image1 {
 	position: absolute;
-	width: 500px;
-	height: 700px;
-	left: 0px;
-	top: 60px;
-filter: drop-shadow(10px 10px 8px #202020)}
+	width: 180px;
+	height: 230px;
+	left: -5px;
+	top: 20px;
+	filter: drop-shadow(10px 10px 8px #202020);
+}
 
-	.image2 {
+.image2 {
 	position: absolute;
-	width: 500px;
-	height: 700px;
-	left: 290px;
-	top: 60px;
-	filter: drop-shadow(10px 10px 8px #202020)
+	width: 180px;
+	height: 230px;
+	left: 110px;
+	top: 20px;
+	filter: drop-shadow(10px 10px 8px #202020);
 }
 
 .image3 {
 	position: absolute;
-	width: 500px;
-	height: 700px;
-	left: 590px;
-	top: 60px;
-	filter: drop-shadow(10px 10px 8px #202020)}
+	width: 180px;
+	height: 230px;
+	left: 225px;
+	top: 20px;
+ filter: drop-shadow(10px 10px 8px #202020);
+}
 .image4 {
 	position: absolute;
 	width: 30px;
